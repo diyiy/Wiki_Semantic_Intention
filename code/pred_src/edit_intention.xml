@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<labels xmlns="http://mulan.sourceforge.net/labels">  
+<label name="counter-vandalism"></label>
+<label name="fact-update"></label>
+<label name="refactoring"></label>
+<label name="copy-editing"></label>
+<label name="other"></label>
+<label name="wikification"></label>
+<label name="vandalism"></label>
+<label name="simplification"></label>
+<label name="elaboration"></label>
+<label name="verifiability"></label>
+<label name="process"></label>
+<label name="clarification"></label>
+<label name="disambiguation"></label>
+<label name="point-of-view"></label>
+</labels>
