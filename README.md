@@ -27,7 +27,9 @@ To predict the edit intentions for a set of revisions, please run:
 
 ## Data 
 
-To retrive the content of each revision, please use: https://en.wikipedia.org/wiki/WP:Labels?diff=<replace_with_revision_id>
+To retrive the content of each revision, please use:
+
+```https://en.wikipedia.org/wiki/WP:Labels?diff=<replace_with_revision_id>```
 
 The mapping from label to edit intention can be found below:
 
@@ -49,6 +51,9 @@ The mapping from label to edit intention can be found below:
 			'point-of-view':13
 		}
 ```
+
+To use our trained word embeddings for Wikipedia article revision, please download it from this link:
+[https://goo.gl/An7DZP](wiki_revision_trained_embedding.bin)
 
 ## Cite
 
