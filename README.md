@@ -53,7 +53,7 @@ The mapping from label to edit intention can be found below:
 ```
 
 To use our trained word embeddings for Wikipedia article revision, please download it from this link:
-[https://goo.gl/An7DZP](wiki_revision_trained_embedding.bin)
+https://goo.gl/An7DZP (wiki_revision_trained_embedding.bin)
 
 ## Cite
 
